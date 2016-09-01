@@ -2473,4 +2473,18 @@ deeds = [
 	y: 745
 	mayor: 'Emppu'
 	type: 'solo'
+,
+	name: 'Golden Bay'
+	tag: 'Golden-Bay'
+	x: 3705
+	y: 910
+	mayor: 'Goldie'
+	type: 'solo'
+,
+	name: 'Wolf\'s Lair'
+	tag: 'Wolfs-Lair'
+	x: 3124
+	y: 2005
+	mayor: 'Winterwolf'
+	type: 'solo'
 ]

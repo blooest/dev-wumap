@@ -232,4 +232,9 @@ resources = [
     y: 801
     ores: ['iron','copper','zinc','lead','silver']
     features: ['forge', 'large anvil']
+,
+	type: 'clay'
+	x: 3428
+	y: 1757
+	size: 'large'
 ]
